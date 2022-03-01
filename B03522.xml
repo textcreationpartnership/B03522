@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The gallant seaman's resolution; whose full intent was, to try his fortune at sea, and at his return marry his lanlady [sic] if Heaven be pleas'd to bless him with his life, none but his lanlady shall be his wife: she being a widow, and tis understood, of carriage and behaviour very good. To the tune, Think on the loving lanlady, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682-1uuu?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03522</idno>
+            <idno type="STC">Wing G174</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[124]</idno>
+            <idno type="EEBO-CITATION">99887161</idno>
+            <idno type="PROQUEST">ocm99887161</idno>
+            <idno type="VID">181873</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03522)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181873)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[124])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The gallant seaman's resolution; whose full intent was, to try his fortune at sea, and at his return marry his lanlady [sic] if Heaven be pleas'd to bless him with his life, none but his lanlady shall be his wife: she being a widow, and tis understood, of carriage and behaviour very good. To the tune, Think on the loving lanlady, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed by and for A[lexander]. Milbourn, and sold by the booksellers of Pye-Corner, and London-Bridge.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[no before 1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "A gallant youth at Gravesend liv'd ..."</note>
+                  <note>Place and date of publication and publisher's name from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181873:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <head>The Gallant <hi>SEAMAN's</hi> Reſolution; Whoſe full Intent was, To try his Fortune at SEA, and at his Return marry his Lanlady</head>
+            <argument>
+               <l>If Heaven be pleas'd to bleſs him with his life,</l>
+               <l>None but his Lanlady ſhall be his Wife:</l>
+               <l>She being a Widow, as tis underſtood,</l>
+               <l>Of Carriage and Behaviour very good.</l>
+            </argument>
+            <opener>To the Tune, <hi>Think on thy Loving Lanlady,</hi> &amp;c.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <hi>A</hi> Gallant Youth at <hi>Graveſend</hi> liv'd,</l>
+               <l>a Seaman neither rich nor poor;</l>
+               <l>But when his means was almoſt ſpent,</l>
+               <l>he bravely went to Sea for more:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Turn to thy Love and take a kiſs,</hi>
+                  </l>
+                  <l>
+                     <hi>this Gold about thy wriſt i'll tye;</hi>
+                  </l>
+                  <l>
+                     <hi>And always when thou look'ſt on this,</hi>
+                  </l>
+                  <l>
+                     <hi>think on thy loving Lanlady.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>His Father being dead and gone,</l>
+               <l>he lov'd his Mother as his life,</l>
+               <l>And did maintain her gallantly;</l>
+               <l>it was well known he had no Wife:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Turn to thy Love,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>He was belov'd of Rich and Poor,</l>
+               <l>and ſtill kept company with the beſt,</l>
+               <l>A gallant Widow in the Town,</l>
+               <l>her love unto him thus expreſt:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Turn to thy love,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Young Man could I thy favour win,</l>
+               <l>or might thy company but crave,</l>
+               <l>To come and live at home with me,</l>
+               <l>i'll make thee Lord of all I have:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Turn to thy Love,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Fair Miſtreſs, I am for the Seas,</l>
+               <l>here's Gold and Silver in my hand,</l>
+               <l>And when the Drums &amp; Trumpets ſound</l>
+               <l>I'll bid adieu to fair <hi>England:</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And if thou wilt with patience ſtay,</hi>
+                  </l>
+                  <l>
+                     <hi>till I from Sea return again;</hi>
+                  </l>
+                  <l>
+                     <hi>For every kiſs thou lendeſt me,</hi>
+                  </l>
+                  <l>
+                     <hi>I will repay thee ten times ten.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Do but reſolve to ſtay at home,</l>
+               <l>I'll put another in thy place,</l>
+               <l>No, that will be a ſhame, quoth he,</l>
+               <l>and to my name a foul diſgrace:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Turn to thy Love,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <pb facs="tcp:181873:1"/>
+            <!-- PDF PAGE 5 -->
+            <lg>
+               <l>I Have five hundred pound at leaſt,</l>
+               <l>of Silver which I never told,</l>
+               <l>Beſides I have in ſtore for thee,</l>
+               <l>five hundred pound in good red Gold:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Turn to thy love, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>If you could give me all the wealth,</l>
+               <l>that ever <hi>Europe</hi> did afford:</l>
+               <l>A faithful promiſe I have made,</l>
+               <l>and I will not be worſe than my word.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And if thou wilt, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>If neither ſtrength nor policy,</l>
+               <l>can further me in my deſign,</l>
+               <l>Remain a conſtant friend to me,</l>
+               <l>and I for ever will be thine:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Turn to thy love, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And whilſt that breath and life doth laſt,</l>
+               <l>to me this thing i'le verifie;</l>
+               <l>Though you at Sea, and I on ſhore,</l>
+               <l>I'le pray for thy proſperity:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Turn to thy love, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Heaven bleſs the Ship thou ſaileſt in,</l>
+               <l>whether it ſwim with wind or tide,</l>
+               <l>And all that with thee comes or goes,</l>
+               <l>I hope that <hi>Neptune</hi> will them guide:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Turn to thy love, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>From Pyrates knocks, and bloody blows,</l>
+               <l>great <hi>Mars</hi> protect thee ſtill,</l>
+               <l>Nor may Quick-ſands or ſtony Rocks,</l>
+               <l>have power to do thee any ill.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Turn to thy love, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And whilſt that thou art far away,</l>
+               <l>in <hi>Holland, Flanders, France</hi> or <hi>Spain,</hi>
+               </l>
+               <l>As thou in ſafety didſt launch forth,</l>
+               <l>heaven bring thee ſafely home again.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Turn to thy love, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>If I may ſpeak without offence,</l>
+               <l>my heart will never quiet be,</l>
+               <l>Till thou give me full recompence,</l>
+               <l>and ſay'ſt that I thy Wife ſhall be;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Turn to thy love, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Yet one thing here I beg of thee,</l>
+               <l>before from me thou doſt depart,</l>
+               <l>That thou wilt let now unknow</l>
+               <l>the thoughts and ſecrets of thy heart</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Turn to thy love, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When thou art gone out of my ſight.</l>
+               <l>and com'ſt where pretty Laſſes are,</l>
+               <l>Thou wilt fall in love i<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th ſome of them,</l>
+               <l>that is the thing I moſt do fear.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Turn to thy love, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>If I ſhould hear in any caſe,</l>
+               <l>that to ſome other thou ſhouldſt married be,</l>
+               <l>Then would I weep, lament and grieve,</l>
+               <l>and break my heart for love of thee.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Turn to thy love, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <div type="part">
+               <sp>
+                  <speaker>The Seamans Reply.</speaker>
+                  <lg>
+                     <l>HArk, hark, I hear the Trumpet ſound,</l>
+                     <l>and calleth me to come away,</l>
+                     <l>Therefore in haſt I muſt be gone,</l>
+                     <l>I can nor will no longer ſtay.</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>And if thou wilt, &amp;c.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>Therefore ſweet Lady now farewel,</l>
+                     <l>more than a thouſand times adieu,</l>
+                     <l>Wherever I paſs by Land or Sea,</l>
+                     <l>I'le ſtill be faithful unto you.</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>And if, &amp;c.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>This Golden Ribbon which you ty'd</l>
+                     <l>about my hand wriſt in pure love,</l>
+                     <l>Shall be a token whilſt I live,</l>
+                     <l>that I to you will conſtant prove.</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>And if, &amp;c.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>And when that I return again,</l>
+                     <l>if heavens afford me breath and life,</l>
+                     <l>You that are now my Lanlady,</l>
+                     <l>ſhall then be made my wedded Wife.</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>And if, &amp;c.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>The Bells ſhall ring melodiouſly,</l>
+                     <l>the Muſick ſhall moſt ſweetly play,</l>
+                     <l>And all our Friends will then rejoyce,</l>
+                     <l>to ſee our happy Wedding day:</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>And if thou wilt with patience ſtay,</hi>
+                        </l>
+                        <l>
+                           <hi>till <hi>I</hi> from Sea return again;</hi>
+                        </l>
+                        <l>
+                           <hi>For every kiſs thou lendeſt me,</hi>
+                        </l>
+                        <l>
+                           <hi>I <hi>will repay thee ten times ten.</hi>
+                           </hi>
+                        </l>
+                     </lg>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by and for <hi>A. Milbourn,</hi> and ſold by the Bookſellers of <hi>Pye-Corner,</hi> and <hi>London-Bridge.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
